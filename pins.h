@@ -44,32 +44,32 @@
  * 
  * These config defines are used to target ws2812 LED pin.
  */
-#define WS2812 4 
+#define WS2812                           4 
 
 /** 
  * @brief Defines LED config values.
  * 
  * These config defines are used to target LED pins.
  */
-#define LED 25 
+#define LED                              25 
 
 /** 
  * @brief Defines button config values.
  * 
  * These config defines are used to target button pins.
  */
-#define NO_BUTTON     255
-#define LEFT_BUTTON   4
-#define RIGHT_BUTTON  5
-#define SUBMIT_BUTTON 7
+#define NO_BUTTON                        255
+#define LEFT_BUTTON                      4
+#define RIGHT_BUTTON                     5
+#define SUBMIT_BUTTON                    7
 
 /** 
  * @brief Defines SSD1306 config values.
  * 
  * These config defines are used to target SSD1306 registers.
  */
-#define I2C i2c1
-#define SDA 2
-#define SCL 3
+#define I2C                              i2c1
+#define SDA                              2
+#define SCL                              3
 
 #endif /* _PINS_H_ */

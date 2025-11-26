@@ -132,5 +132,5 @@ int main(void) {
 
 <br>
 
-## License
+# License
 [MIT](https://raw.githubusercontent.com/mytechnotalent/Pico_WS2812_Driver/main/LICENSE)
